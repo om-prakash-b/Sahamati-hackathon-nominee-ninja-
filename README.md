@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 **Scope of the project:**
 
-We are aiming to use the Accoutn Aggregator framework, coupled with the government APIs of user details, in order to build a one stop view of all your financial assets that are secured for your loved ones. By monitoring your accounts which are missing their Nominee details, and by buildign your family tree to help you seamlessly choose and add nominee details. Further, we are also plannign to integrate with the onboarding forms of all financial institutions, and fintehc apps, so that customers will simply need to click on "Fill with IceBreaker" in roder to ensure all mandatory fields have been completely filled up, leaving no vulnerabilities int eh accounts. 
+We are aiming to use the Account Aggregator framework, coupled with the government APIs of user details, in order to build a one stop view of all your financial assets that are secured for your loved ones. By monitoring your accounts which are missing their Nominee details, and by buildign your family tree to help you seamlessly choose and add nominee details. Further, we are also plannign to integrate with the onboarding forms of all financial institutions, and fintehc apps, so that customers will simply need to click on "Fill with IceBreaker" in roder to ensure all mandatory fields have been completely filled up, leaving no vulnerabilities int eh accounts. 
 
 
 ## Getting Started
